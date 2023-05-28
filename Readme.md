@@ -3,7 +3,7 @@
 <img align="right" width=470 alt="coding" src="https://www.forwardermagazine.com/wp-content/uploads/2020/12/coding-scaled.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devyani-12&label=Profile%20views&color=0e75b6&style=flat" alt="devyani-12" /> </p>
 
-- 🌱 I’m currently learning **DSA in C++ , C Programming**
+- 🌱 I’m currently learning **DSA in C++ , C Programming,Java**
 
 - 💬 Ask me about **Basic C++**
 
